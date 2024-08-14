@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cpti/static/css/main.bef7bf4e.css",
+    "main.js": "/cpti/static/js/main.4323282a.js",
+    "index.html": "/cpti/index.html",
+    "main.bef7bf4e.css.map": "/cpti/static/css/main.bef7bf4e.css.map",
+    "main.4323282a.js.map": "/cpti/static/js/main.4323282a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bef7bf4e.css",
+    "static/js/main.4323282a.js"
+  ]
+}
